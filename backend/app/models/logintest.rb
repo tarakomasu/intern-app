@@ -1,0 +1,2 @@
+class Logintest < ApplicationRecord
+end
