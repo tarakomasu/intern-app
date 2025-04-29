@@ -21,6 +21,17 @@ sqlite
 
 ＃＃セットアップ
 
+＃クローン
+git clone https://github.com/username/my-amazing-project.git
+
+＃インストール
+npm install axios
+npm install zod
+
+ジェム
+
+インストール
+
 ＃＃注意
 
 ローカルで立ち上げてください！
